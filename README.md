@@ -28,7 +28,7 @@ Use probe for field measurements
 Adjust charge magnitude
 Monitor field intensity graph
 
-##Scenarios
+## Scenarios
 
 0: Single charge
 1: Two equal charges
@@ -36,7 +36,7 @@ Monitor field intensity graph
 3: Four-charge system
 4: Dynamic two-charge
 
-##Core Components
+## Core Components
 
 MainForm.cs: Main UI
 DrawingPanel.cs: Visualization
@@ -45,19 +45,19 @@ Grid.cs: Field calculations
 Probe.cs: Measurements
 Graph.cs: Data plotting
 
-##Physics Implementation
+## Physics Implementation
 
 Uses Coulomb's law
 ε₀ = 8.854×10⁻¹² F/m
 Vector field visualization
 Heat map intensity display
 
-##Installation
+## Installation
 
 Clone repository
 Build solution
 Run executable
 Select scenario via command line args
 
-##Contributing
+## Contributing
 Open to pull requests. For major changes, create issue first.
